@@ -1,0 +1,10 @@
+Public Domain
+
+The files covered by this identifier are in the public domain in the United
+States and carry no known copyright restrictions. They are works of the U.S.
+federal government (for example NASA imagery) or were explicitly released into
+the public domain by their authors. Per-file provenance is recorded in
+bench/svg/corpus/SOURCES.md.
+
+No rights are reserved. You may copy, modify and distribute these files for
+any purpose without asking permission.

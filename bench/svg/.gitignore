@@ -1,0 +1,4 @@
+# Frozen K-Means labels (svg_bench.py prepare)
+.cache/
+# Benchmark runs (svg_bench.py run)
+results/

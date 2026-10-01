@@ -19,3 +19,45 @@ SPDX-License-Identifier = "AGPL-3.0-or-later"
 path = ".github/**"
 SPDX-FileCopyrightText = "2026 Ryan Millard"
 SPDX-License-Identifier = "AGPL-3.0-or-later"
+
+# SVG benchmark corpus (see bench/svg/corpus/SOURCES.md for per-file provenance)
+[[annotations]]
+path = [
+  "bench/svg/corpus/photo-cat.jpg",
+  "bench/svg/corpus/photo-coffee.jpg",
+  "bench/svg/corpus/photo-retina.jpg",
+  "bench/svg/corpus/photo-camera-gray.png",
+  "bench/svg/corpus/photo-cell-gray.png",
+  "bench/svg/corpus/photo-brick-texture.png",
+  "bench/svg/corpus/photo-grass-texture.png",
+  "bench/svg/corpus/photo-gravel-texture.png",
+  "bench/svg/corpus/illus-horse-silhouette.png",
+]
+SPDX-FileCopyrightText = "The photographers and artists listed in bench/svg/corpus/SOURCES.md"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = [
+  "bench/svg/corpus/photo-astronaut.jpg",
+  "bench/svg/corpus/photo-rocket.jpg",
+  "bench/svg/corpus/photo-hubble.jpg",
+  "bench/svg/corpus/photo-clock-gray.png",
+]
+SPDX-FileCopyrightText = "NOASSERTION"
+SPDX-License-Identifier = "LicenseRef-PublicDomain"
+
+[[annotations]]
+path = [
+  "bench/svg/corpus/illus-hedgehog.png",
+  "bench/svg/corpus/illus-sunflower.png",
+  "bench/svg/corpus/illus-globe.png",
+  "bench/svg/corpus/illus-palette.png",
+  "bench/svg/corpus/illus-rocket.png",
+]
+SPDX-FileCopyrightText = "2019 Twitter, Inc and other contributors (Twemoji)"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = "bench/svg/corpus/synth-*.png"
+SPDX-FileCopyrightText = "2026 Img2Num contributors"
+SPDX-License-Identifier = "CC0-1.0"

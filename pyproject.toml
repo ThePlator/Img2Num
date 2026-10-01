@@ -143,3 +143,8 @@ lint = [
 licensing = [
   "reuse>=6.2.0,<7"
 ]
+# SVG output benchmark (bench/svg/svg_bench.py)
+bench = [
+  "pillow>=10",
+  "resvg-py>=0.2,<1",
+]
